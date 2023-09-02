@@ -1,0 +1,189 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+nav{
+    border :1px solid white;
+    height:70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+
+}
+#I{
+    margin-left: 50px;
+    height: 60px;
+    width: 100px;
+    border-radius: 100px;
+}
+.C{
+    text-transform: capitalize;
+    text-decoration-line: none;
+}
+section{
+    border: 1px solid white;
+    height: 600px;
+    font-weight: 100%;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+
+}
+#center{
+    margin-top: 80px;
+    height: 550px;
+    width: 500px;
+
+}
+h1{
+    margin-left: 30px;
+    margin-top: 250px;
+    font-size: 60px;
+
+}
+h2{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+#di{
+    padding-top: 50px;
+    font-size: 100px;
+    align-items: center;
+    text-align: center;
+}
+footer{
+    border: 1px solid white;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#c2{
+    border: 1px solid grey;
+    height: 220px;
+    width: 220px;
+    box-shadow: 2px 2px 14px grey;
+}
+#c2:hover{
+    height: 225px;
+    width: 224px;
+}
+#c3{
+    border: 1px solid grey;
+    height: 220px;
+    width: 220px;
+    box-shadow: 2px 2px 14px grey;
+}
+#c3:hover{
+    height: 225px;
+    width: 224px;
+}
+#c4{
+    border: 1px solid grey;
+    height: 220px;
+    width: 220px;
+    box-shadow: 2px 2px 14px grey;
+}
+#c4:hover{
+    height: 225px;
+    width: 224px;
+}
+h3{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 22px;
+}
+h4{
+    font-size: 20px;
+}
+h6{
+    color: black;
+}
+
+
+/* ----------------------------Content----------------- */
+#contact{
+    padding-left: 200px;
+
+}
+
+/* ------------------------Social media--------------- */
+#insta{
+    margin-top: 5px;
+    height: 55px;
+    width: 75px;
+    background-color: black;
+    border-radius: 25px;
+
+}
+#linkedn{
+    height: 59px;
+    width: 83px;
+   margin-right:100px ;
+   /* background-color: black; */
+   border-radius: 75px;
+
+
+}
+
+/* ----------------NEw footer------------------- */
+#NEWFOOTER{
+    border: 1px solid black;
+    height: 300px;
+    width: 
+    100%;
+    background-color: black;
+
+}
+#f1{
+    /* border: 1px solid white; */
+    margin-left: 120px;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    
+}
+h5{
+    padding-left: px;
+    padding-top: 50px;
+    font-size: 17px;
+    color: white;
+}
+#face{
+    /* border: 1px solid white; */
+    margin-left: -110px;
+    padding-left: -1px;
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    border-radius: 40%;
+}
+p{
+    /* border:1px solid beige; */
+    padding-left: 25px;
+    padding-top: 20px;
+}
+#f2{
+    margin-left: -10px;
+    margin-top: -10px;
+    margin-left: 0px;
+    font-size: 30px;
+    color: white;
+}
+#n{
+    margin-left: -25px;
+
+}
+
+/* -------------------END-------------------- */
+

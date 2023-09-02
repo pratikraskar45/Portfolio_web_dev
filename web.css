@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* --------------Nav bar*/
+
+section{
+    
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+
+}
+#I{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 100%;
+}
+
+#II{
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 100%;
+}
+h1{
+    padding-left: 100px;
+    padding-top: 70px;
+    font-size: 90px;
+}
+h2{
+    padding-top: 400px;
+    padding-left: -225px;
+    color: rgb(82, 79, 79);
+}
+
+#sc{
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#insta{
+    margin-top: 20px;
+    margin-left: 43px;
+    
+    height: 100px;
+    width: 130px;
+}
+
+h3{
+    padding-left:65px ;
+}
+
+#link{
+    margin-top: 30px;
+    margin-left: 45px;
+
+    height: 100px;
+    width: 130px;
+}
+
+#face{
+    margin-top: 50px;
+    margin-left: 45px;
+
+    height: 80px;
+    width: 100px;
+}
+#twit{
+    margin-top: 25px;
+    margin-left: 45px;
+
+    height: 80px;
+    width: 110px;
+}
+
+#main{
+    border: 1px solid grey;
+    margin-top: 50px;
+    height: 500px;
+    width: 550px;
+    box-shadow: 2px 2px 14px grey;
+}
+
+footer{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+
+h5{
+    margin-top: -80px;
+    margin-left: -10px;
+    font-size: 50px;
+}
+h6{
+    margin-top: 20px;
+    color: rgb(112, 110, 110);
+    width: 90%;
+    font-size: 30px;
+}
+#bol{
+    color: black;
+}
+
+
